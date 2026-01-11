@@ -1,5 +1,7 @@
+
+//1
 #include <iostream>
-#include <vector>
+using namespace std;
 
 void repeatnum(int arr[],int n){
   for(int i=0;i<n;i++){
@@ -16,3 +18,13 @@ for (int i = 0; i < n; i++) {
         cin >> arr[i];}
    repeatnum(arr,n);
 return 0;}
+
+//2
+#include <iostream>
+#include <unordered_map>
+using namespace std;
+ void repeatname(int arr[],int n){
+   
+
+
+
